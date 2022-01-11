@@ -10,7 +10,6 @@ I'm a freelance software engineer, opensource developer, web scrapper, system ad
 - 🏆 2022 Goals:
   - Publish my third and hopefully 1st successful SaaS project.
   - Improve and expand my freelancing business.
-  - Contribute and publish more open source projects.
 
 ## :wrench: Technologies
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
