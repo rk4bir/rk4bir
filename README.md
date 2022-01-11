@@ -19,7 +19,6 @@ I'm a freelance software engineer, opensource developer, web scrapper, system ad
 <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash-logo.svg" alt="Bash" width="21px" height="21px"></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" title="Flask"><img src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg" alt="Flask" width="21px" height="21px"></a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django-logo.svg" alt="Django" width="21px" height="21px"></a>
-<a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django-logo.svg" alt="Django" width="21px" height="21px"></a>
 <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
 <a href="https://nuxtjs.org/" title="Nuxt.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nuxt-icon.svg" alt="Nuxt.js" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
