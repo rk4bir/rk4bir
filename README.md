@@ -1,6 +1,9 @@
 # Hi, I am Raihan Kabir (☕💻🎵🎮)
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rk4b1r) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rk4bir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rk4bir)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rk4b1r)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rk4bir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rk4bir)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/CRgQUWD2PC)
 
 I'm a freelance software engineer, opensource developer, web scrapper, system admin, and technopreneur from Bangladesh.
 
