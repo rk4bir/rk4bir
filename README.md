@@ -60,5 +60,5 @@ I'm a freelance software engineer, opensource developer, web scrapper, system ad
 [![Raihan's Github Stats](https://readme-stats.warengonzaga.com/api?username=rk4bir&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
 
 
-
+![Profile views](https://gpvc.arturio.dev/rk4bir)
 <!-- markdownlint-enable MD033 -->
